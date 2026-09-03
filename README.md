@@ -1,28 +1,28 @@
-Biomedical Sensor Project
+#🫀Biomedical Sensor Project#
 
- An Arduino-based biomedical sensor project designed to detect proximity and provide real-time visual and audio alerts.
+  -An Arduino-based biomedical sensor project designed to detect proximity and provide real-time visual and audio alerts.
 
-Current Features
+Current Features;
 
- Proximity detection
- LED-based visual alert
- Buzzer-based audio alert
- Arduino UNO micocontroller
+- Proximity detection
+- LED-based visual alert
+- Buzzer-based audio alert
+ -Arduino UNO micocontroller
 
-How İt Works
+How İt Works;
 
- When an object or hand approaches the sensor, the system detects the change in distance and activates the LED and buzzer as an alert.
+- When an object or hand approaches the sensor, the system detects the change in distance and activates the LED and buzzer as an alert.
 
-Current Status
+Current Status;
 
- The proximity detection, LED alert, buzzer alert have been successfully tested.
+- The proximity detection, LED alert, buzzer alert have been successfully tested.
 
 Planned Improvements
 
- Add body temperature measurement 
- Add heart-rate monitoring
- Add an LCD/OLED display
- Combine sensor readings into a single monitoring system
+- Add body temperature measurement🌡️ 
+- Add heart-rate monitoring🩺
+- Add an LCD/OLED display🖥️
+ -Combine sensor readings into a single monitoring system🧩
 
 Hardware
 
