@@ -1,6 +1,9 @@
 #🫀Biomedical Sensor Project#
 
   -An Arduino-based biomedical sensor project designed to detect proximity and provide real-time visual and audio alerts.
+  
+##Current Setup
+![Project Setup](WhatsApp Image 2026-09-03 at 21.56.23.jpeg)
 
 Current Features;
 
